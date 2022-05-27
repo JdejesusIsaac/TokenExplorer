@@ -1,0 +1,12 @@
+type Query {
+    ChainLinkEthUsdAdd(address: String): String
+
+    DaiAddress(address: String): String
+
+    Ethprice(address: String): String
+
+    GetDaiBalance(address: String): String
+
+    
+
+}
