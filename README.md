@@ -16,7 +16,7 @@
 
 git clone repo
 
-To run Apollo server locally : node --exec ts-node --files src/index.ts
+To run Apollo server locally run $ node --exec ts-node --files src/index.ts
 
 
 
