@@ -13,6 +13,22 @@
 
 5.  Querying our API through Apollo GraphQL Playground.
 
+### Main Stack
+ 
+ 1.  Google's TypeScript - gts : npx gts init
+ 
+ 2.  typeScript-Node- ts-node:  npm i ts-node
+
+ 3.  Apollo-Server-Express - apollo-server-express: npm i apollo-server-express
+
+ 4. Express - express: npm i express
+
+ 5. Graphql- graphql: npm i graphql
+
+ 6.  Graphql-Import - graphql-import: npm i graphql-import
+ 
+ 7. Alch/Web3 - @alch/alchemy-web3npm: i @alch/alchemy-web3
+
 
 ### How to start with the Project
 
