@@ -11,7 +11,24 @@
  
 4. fetch data for schema or "resolve them" using Typescript.
 
-5.  Querying our API through Apollo GraphQL Playground. 
+5.  Querying our API through Apollo GraphQL Playground.
+
+
+### How to start with the Project
+
+1. Go to the terminal
+
+2. Clone this repo.
+
+3. Run git clone <url> on your local terminal. ( <url> - the URL you find in your remote repo after cloning)
+
+4. Then cd to the respective repo.
+
+5. Run npm install.
+
+To run Apollo server locally run $ node --exec ts-node --files src/index.ts
+
+Your development server is up and running on localhost:4000.
 
 
 git clone repo
