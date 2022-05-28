@@ -31,9 +31,6 @@ To run Apollo server locally run $ node --exec ts-node --files src/index.ts
 Your development server is up and running on localhost:4000.
 
 
-git clone repo
-
-To run Apollo server locally run $ node --exec ts-node --files src/index.ts
 
 
 
