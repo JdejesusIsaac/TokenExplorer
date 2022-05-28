@@ -6,10 +6,10 @@
 
 2.  Connecting to Alchemy web3.js @alch/alchemy-web3 to Instantiate Smart contracts using Abi and Mainnet Address. Then calling view fucntions using             alchemy/web3
 
-3.  Define Schema for view functions in "Schema.graphql"
+3.  Define Schema for view functions in "Schema.graphql" graphql-import 
  
  
-4. fetch data for schema or "resolve them" using Typescript.
+4. fetch data for schema or "resolve them" using Typescript and alch/web3.js
 
 5.  Querying our API through Apollo GraphQL Playground.
 
