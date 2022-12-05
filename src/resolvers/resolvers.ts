@@ -1,7 +1,7 @@
 import { EthFunctions } from "../functions/ethFunctions";
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
 
-const API_KEY = "LWrgmpDRxzx8tSCR6qkS4q4BOqn0bBUn"
+const API_KEY = ""
 const url = `https://eth-mainnet.alchemyapi.io/v2/${API_KEY}`
 
 const web3 = createAlchemyWeb3(url);
