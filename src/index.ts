@@ -7,7 +7,7 @@ import { resolvers } from "./resolvers/resolvers";
 
 
 const fs = require("fs");
-const API_KEY = "Zc3CZGybAdrueuWXfAjYdcEuj53Xeoni"
+const API_KEY = ""
 const url = `https://eth-kovan.alchemyapi.io/v2/${API_KEY}`
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
 const web3 = createAlchemyWeb3(url);
